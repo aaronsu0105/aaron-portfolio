@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "LA Photoshoot",
+    "description": "LA Photoshoot of my friend Shine Park",
+    "coverImage": "/shine.jpg",
+    "images": [
+      "/shine.jpg",
+      "/shine_at_grove.jpg",
+      "/shine_at_dis.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Redwoods State Park",
+    "description": "Redwoods State Park",
+    "coverImage": "/rainbowwater.jpg",
+    "images": [
+      "/rainbowwater.jpg"
+    ]
+  }
+]

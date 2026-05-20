@@ -1,0 +1,37 @@
+[
+  {
+    "id": 101,
+    "date": "Summer 2025",
+    "title": "Office Manager | Great Art School of Music",
+    "description": "Managed financial workflows including tuition collection, payroll, and expense tracking. Resolved scheduling conflicts and administrative discrepancies to maintain total operational accuracy.",
+    "glowColor": "bg-emerald-500 shadow-[0_0_15px_rgba(16,185,129,0.6)]"
+  },
+  {
+    "id": 102,
+    "date": "2020 — 2024",
+    "title": "Program Coordinator | Golden Maple Organization",
+    "description": "Directed weekly Modern Technology and Medical English workshops for senior demographics, drastically improving community digital literacy and technological fluency for over 50 members.",
+    "glowColor": "bg-rose-500 shadow-[0_0_15px_rgba(244,63,94,0.6)]"
+  },
+  {
+    "id": 1,
+    "date": "Summer 2026 (Target)",
+    "title": "Intersecting Finance & Health Tech",
+    "description": "Actively positioning for roles bridging quantitative analysis and healthcare.",
+    "glowColor": "bg-blue-500 shadow-[0_0_15px_rgba(59,130,246,0.6)]"
+  },
+  {
+    "id": 2,
+    "date": "Spring 2026",
+    "title": "Syndicate Protocol Launch",
+    "description": "Engineered and deployed a full-stack cryptocurrency application via Vercel.",
+    "glowColor": "bg-emerald-400 shadow-[0_0_15px_rgba(52,211,153,0.6)]"
+  },
+  {
+    "id": 3,
+    "date": "Fall 2026",
+    "title": "Bioinformatics Specialization",
+    "description": "Learning new integration techniques with databases and biological implications.",
+    "glowColor": "bg-blue-500 shadow-[0_0_15px_rgba(59,130,246,0.6)]"
+  }
+]

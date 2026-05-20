@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "title": "Syndicate Protocol",
+    "description": "A full-stack cryptocurrency dashboard with real-time state management and decentralized wallet connectivity.",
+    "tags": ["React", "Vercel", "Node.js", "Web3"],
+    "link": "https://syndicate-protocol.vercel.app"
+  }
+  
+]

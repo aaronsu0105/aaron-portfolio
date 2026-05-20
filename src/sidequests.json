@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Biotech & Health Tech Integration",
+    "description": "Actively networking and searching for summer roles in the biotechnology sector to apply my academic background in medical bioinformatics to real-world healthcare challenges.",
+    "tags": [
+      {
+        "name": "Career Focus",
+        "colorClass": "bg-blue-500/10 border-blue-500/20 text-blue-300"
+      },
+      {
+        "name": "Bioinformatics",
+        "colorClass": "bg-indigo-500/10 border-indigo-500/20 text-indigo-300"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Securities Licensing Preparation",
+    "description": "Preparing for Canadian securities licensing over the summer to formalize my understanding of capital markets, financial instruments, and regulatory frameworks.",
+    "tags": [
+      {
+        "name": "Certification",
+        "colorClass": "bg-purple-500/10 border-purple-500/20 text-purple-300"
+      },
+      {
+        "name": "Finance",
+        "colorClass": "bg-emerald-500/10 border-emerald-500/20 text-emerald-300"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Active Market Analysis",
+    "description": "Monitoring global markets daily and actively managing a personal investment portfolio spanning traditional equities, CDRs, and digital assets.",
+    "tags": [
+      {
+        "name": "Quantitative",
+        "colorClass": "bg-emerald-500/10 border-emerald-500/20 text-emerald-300"
+      },
+      {
+        "name": "Trading",
+        "colorClass": "bg-teal-500/10 border-teal-500/20 text-teal-300"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Summer Softball (Team Captain)",
+    "description": "Captaining a local summer softball team. Managing roster logistics, game strategy, and fostering a highly collaborative and competitive team culture.",
+    "tags": [
+      {
+        "name": "Leadership",
+        "colorClass": "bg-amber-500/10 border-amber-500/20 text-amber-300"
+      },
+      {
+        "name": "Athletics",
+        "colorClass": "bg-orange-500/10 border-orange-500/20 text-orange-300"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Photography & Visual Archives",
+    "description": "Pursuing photography as a creative outlet and documenting daily ventures. Currently conceptualizing and planning the launch of a dedicated visual portfolio account.",
+    "tags": [
+      {
+        "name": "Creative",
+        "colorClass": "bg-pink-500/10 border-pink-500/20 text-pink-300"
+      },
+      {
+        "name": "Media",
+        "colorClass": "bg-rose-500/10 border-rose-500/20 text-rose-300"
+      }
+    ]
+  }
+]
