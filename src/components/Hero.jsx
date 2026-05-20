@@ -14,7 +14,7 @@ export default function Hero() {
             <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
           </span>
           <span className="font-medium tracking-wide">
-            Status: Engineering quant models & walking Charlie
+            Status: Looking for a Summer Internship
           </span>
         </div>
 
